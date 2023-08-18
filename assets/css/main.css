@@ -4210,6 +4210,33 @@ body.left-menu header.site-header .home-fw-slider.style-4 {
             box-shadow: 0px 5px 10px -5px rgba(0, 0, 0, 0.3);
   }
 }
+.dropcap-2 span.first-letter {
+  border: 1px solid;
+  font-size: 48px;
+  display: inline-block;
+  width: 66px;
+  height: 66px;
+  float: left;
+  font-weight: 700;
+  line-height: 50px;
+  margin-right: 25px;
+  text-align: center;
+  border-radius: 50%;
+}
+.dropcap-2.style-1 span.first-letter {
+  background-color: #DEB887;
+  color: #ffffff;
+  border-color: #DEB887;
+}
+.dropcap-2.style-2 span.first-letter {
+  color: #ffffff;
+  border-color: #555555;
+  background-color: #555555;
+}
+.dropcap-2.style-3 span.first-letter {
+  border-color: #777777;
+  color: #777777;
+}
 /* Slip Page */
 .slip-section .slip-wrapper {
   border-top: 0px solid #dddddd;
